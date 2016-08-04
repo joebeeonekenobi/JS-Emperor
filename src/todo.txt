@@ -1,0 +1,34 @@
+Symbol List
+	Collapsability
+	Hide System Names
+	Hide User Names
+
+Maintainer
+	Definitions should contain the exact script used to create the symbol in its current state
+
+Code
+	Comment
+	Arrange in appropriate places
+
+Canvas
+	Canvas Methods
+
+Native/System Methods
+	Arrays
+	Strings
+	Math
+	Numbers
+
+Errors
+	Warning windows, and the ability to call them
+	Error handling from submitcode() input window
+
+
+
+
+
+
+fire function
+
+return a++ is not possible, as a++ does not return a value and is not anExpression in parsing
+maximise input window causes horiz scroll to appear midscreen
